@@ -4,9 +4,9 @@ I'm Sam, a 👽**Junior Android Developer**👽 who is also working towards a ba
 
 I enjoy learning about and using the latest technologies and tools surrounding Android Development.
 
-- 🔭 I’m currently working on a Photo Lockbox App
-- 🌱 I’m currently learning Mutli-Module Architecture
-- 🤔 I’m looking to colloborate with other Android Developers on largers projects
+- 🔭 I’m currently working on a photo lockbox app
+- 🌱 I’m currently learning mutli-module architecture for commercial app development
+- 🤔 I’m looking to colloborate with other android developers on largers projects
 - ⚡ Fun fact: I used to build commercial aircraft wings
 
 ## ♟️ Skills
