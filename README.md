@@ -1,6 +1,7 @@
 # Hello there 👋
 
-I'm Sam, a 👽**Junior Android Developer**👽 who is also working towards a bachelor's degree in **Computing and IT**.
+I'm Sam, a 👽**Junior Android Developer**👽 who is also working towards a bachelor's degree in **Computing and IT**.  
+
 I enjoy learning about and using the latest technologies and tools surrounding Android Development.
 
 - 🔭 I’m currently working on a Photo Lockbox App
